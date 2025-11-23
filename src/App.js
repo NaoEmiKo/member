@@ -3,6 +3,7 @@ function App() {
     <div>
       <h1>Hello Naoto!</h1>
       <p>これは僕のReactページです。</p>
+      <p>Hello again</p>
     </div>
   );
 }
